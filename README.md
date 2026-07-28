@@ -8,7 +8,7 @@
 *Focused on Ecommerce Shipping, Label Generation, Multi-Carrier Rate Shopping, Order Fulfillment & Logistics Automation*
 **Last updated: July 2026**
 
-This repository tracks notable **SaaS platforms** and **open-source projects** for **Shipping & Fulfillment**. These tools handle multi-carrier rate shopping, shipping label generation, order management, warehouse operations, tracking, returns, and end-to-end fulfillment for ecommerce sellers, 3PLs, and developers.
+Welcome to the ultimate curated resource for **Shipping & Fulfillment solutions**. This directory tracks notable **SaaS platforms**, **ecommerce integrations**, and **open-source logistics projects** for modern retail and supply chains. Discover top-rated tools that handle multi-carrier rate shopping, automated shipping label generation, order management systems (OMS), warehouse operations (WMS), post-purchase tracking, returns management, and end-to-end fulfillment designed for ecommerce sellers, 3PL providers, and developers.
 
 **Examples** include ShipStation, Easyship, ShipBob, Shippo, AfterShip, EasyPost, Pirate Ship, Ordoro, Stamps.com, Sendcloud (the category leaders).
 
