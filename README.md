@@ -2,8 +2,8 @@
   <img src="assets/banner.svg" alt="Awesome Shipping & Fulfillment Banner" width="800" />
 </div>
 
-# Awesome-Shipping-Fulfillment
-## Top Shipping & Fulfillment Tools Ecosystem
+# Awesome-Shipping-Fulfillment 📦
+## Top Shipping & Fulfillment Tools Ecosystem 🚚
 **Curated List of SaaS Products & Open-Source GitHub Projects**
 *Focused on Ecommerce Shipping, Label Generation, Multi-Carrier Rate Shopping, Order Fulfillment & Logistics Automation*
 **Last updated: July 2026**
@@ -16,15 +16,15 @@ This repository tracks notable **SaaS platforms** and **open-source projects** f
 
 Contributions welcome! Open a PR to add/update entries. Keep descriptions factual and link to official sites.
 
-## Table of Contents
+## Table of Contents 📑
 - [SaaS/Hosted Platforms](#saas-hosted-platforms)
 - [Open-Source GitHub Projects](#open-source-github-projects)
 - [How to Contribute](#how-to-contribute)
 - [Disclaimer](#disclaimer)
 
-## SaaS/Hosted Platforms
+## SaaS/Hosted Platforms ☁️
 
-### Core Platforms (Shipping & Fulfillment)
+### Core Platforms (Shipping & Fulfillment) ⚙️
 - **[ShipStation](https://www.shipstation.com/)**  
   Leading multi-channel shipping platform with automation rules, batch label printing, rate shopping across 100+ carriers, and deep ecommerce integrations (Shopify, Amazon, eBay, etc.).
 - **[Easyship](https://www.easyship.com/)**  
@@ -52,7 +52,7 @@ Contributions welcome! Open a PR to add/update entries. Keep descriptions factua
 - **[ShippingEasy](https://shippingeasy.com/)**  
   Ecommerce shipping automation with discounted rates, batch processing, and marketing integrations.
 
-## Open-Source GitHub Projects
+## Open-Source GitHub Projects 💻
 
 - **[Fleetbase](https://github.com/fleetbase/fleetbase)** [![GitHub stars](https://img.shields.io/github/stars/fleetbase/fleetbase?style=social&color=white)](https://github.com/fleetbase/fleetbase/stargazers)  
   Comprehensive open-source modular logistics & supply chain platform (TMS, fleet management, warehouse operations, e-commerce delivery, driver & customer apps). Fully self-hostable with strong customization.
@@ -77,7 +77,7 @@ Contributions welcome! Open a PR to add/update entries. Keep descriptions factua
 - **[KubeRiva](https://www.kuberiva.com/)** (GitHub available)  
   Open-source AI-native Order Management System with multi-channel ingestion, AI-powered sourcing/fulfillment, real-time inventory, and natural language assistant. Apache 2.0, Docker-ready.
 
-### Additional Strong Open-Source Options
+### Additional Strong Open-Source Options 🌟
 - **Odoo Community Edition** — Full open-source ERP with inventory, shipping, procurement, and warehouse modules.
 - **Traccar** — Popular open-source GPS vehicle/fleet tracking platform (200+ device protocols).
 - **Community AIS/shipping libraries**, label printers (Zebra/ZPL tools), and barcode utilities.
@@ -86,7 +86,7 @@ Contributions welcome! Open a PR to add/update entries. Keep descriptions factua
 
 **Frameworks for building custom systems**: Combine **Karrio** (shipping API) + **Openship** or **OpenOMS** (order routing/OMS) + **Fleetbase** or **Sentry WMS** (logistics/warehouse) + **InfluxDB/Grafana** or modern dashboards. Pair with self-hosted tools like LibreTrack for end-to-end open fulfillment stacks.
 
-## How to Contribute
+## How to Contribute 🤝
 1. Fork the repo.
 2. Add/edit entries in `README.md` (follow existing format).
 3. Include: name, link, 1–2 sentence description, and whether it's SaaS or open-source.
@@ -94,7 +94,7 @@ Contributions welcome! Open a PR to add/update entries. Keep descriptions factua
 
 Star the repo if you find it useful!
 
-## Disclaimer
+## Disclaimer ⚠️
 - This is a **community-curated** list — not exhaustive and not an endorsement.
 - Shipping and fulfillment tools must comply with carrier terms, customs regulations, and data privacy laws (GDPR, CCPA, etc.).
 - Self-hosted open-source solutions require proper security, reliability, carrier account management, and operational expertise.
