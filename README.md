@@ -97,7 +97,8 @@ Star the repo if you find it useful!
 **Made for ecommerce sellers, 3PLs, warehouse operators, developers, and logistics technologists.**  
 Let's make shipping and fulfillment more open, programmable, and efficient.
 
-## Star History
+
+##  Star History
 <div align="center">
 <a href="https://www.star-history.com/?repos=ishandutta2007%2FAwesome-Shipping-Fulfillment&type=date&legend=bottom-right">
 <picture>
@@ -107,6 +108,3 @@ Let's make shipping and fulfillment more open, programmable, and efficient.
 </picture>
 </a>
 </div>
-
-
-<!-- SEO keywords: ecommerce logistics, shipping API, multi-carrier tracking, order management system, fulfillment software, open-source supply chain -->
