@@ -50,28 +50,28 @@ Contributions welcome! Open a PR to add/update entries. Keep descriptions factua
 
 ## Open-Source GitHub Projects
 
-- **[Karrio](https://github.com/karrioapi/karrio)**  
-  Leading open-source multi-carrier programmable shipping API (self-hosted). Supports rate shopping, label generation, tracking, document generation, and 50+ carriers. API-first alternative to EasyPost/Shippo with SDK and dashboard.
-- **[Fleetbase](https://github.com/fleetbase/fleetbase)**  
+- **[Fleetbase](https://github.com/fleetbase/fleetbase)** [![GitHub stars](https://img.shields.io/github/stars/fleetbase/fleetbase?style=social&color=white)](https://github.com/fleetbase/fleetbase/stargazers)  
   Comprehensive open-source modular logistics & supply chain platform (TMS, fleet management, warehouse operations, e-commerce delivery, driver & customer apps). Fully self-hostable with strong customization.
-- **[Openship](https://github.com/openshiporg/openship)**  
+- **[Openship](https://github.com/openshiporg/openship)** [![GitHub stars](https://img.shields.io/github/stars/openshiporg/openship?style=social&color=white)](https://github.com/openshiporg/openship/stargazers)  
   Open-source multi-channel order router that connects sales channels (Shopify, WooCommerce, eBay, Amazon, etc.) to fulfillment partners and 3PLs with real-time sync and product matching.
-- **[OpenOMS](https://github.com/openoms-org/openoms)**  
+- **[Karrio](https://github.com/karrioapi/karrio)** [![GitHub stars](https://img.shields.io/github/stars/karrioapi/karrio?style=social&color=white)](https://github.com/karrioapi/karrio/stargazers)  
+  Leading open-source multi-carrier programmable shipping API (self-hosted). Supports rate shopping, label generation, tracking, document generation, and 50+ carriers. API-first alternative to EasyPost/Shippo with SDK and dashboard.
+- **[LibreTrack](https://github.com/proninyaroslav/libretrack)** [![GitHub stars](https://img.shields.io/github/stars/proninyaroslav/libretrack?style=social&color=white)](https://github.com/proninyaroslav/libretrack/stargazers)  
+  Private, cross-platform open-source package tracking app. Tracks postal items locally using carrier accounts with full privacy (no third-party services).
+- **[LoadPartner TMS](https://github.com/loadpartner/tms)** [![GitHub stars](https://img.shields.io/github/stars/loadpartner/tms?style=social&color=white)](https://github.com/loadpartner/tms/stargazers)  
+  Open-source Transportation Management System for freight brokers (Laravel + React stack).
+- **[Courier (self-hosted tracker)](https://github.com/tborychowski/courier)** [![GitHub stars](https://img.shields.io/github/stars/tborychowski/courier?style=social&color=white)](https://github.com/tborychowski/courier/stargazers)  
+  Lightweight self-hosted parcel tracker supporting nearly any courier worldwide (Docker-ready).
+- **[OpenOMS](https://github.com/openoms-org/openoms)** [![GitHub stars](https://img.shields.io/github/stars/openoms-org/openoms?style=social&color=white)](https://github.com/openoms-org/openoms/stargazers)  
   Self-hostable multi-tenant Order Management System for e-commerce with marketplace integrations, carrier connections (InPost, DHL, DPD, GLS, etc.), inventory, automation rules, barcode scanning, and packing stations.
+- **[Shippy](https://github.com/verbb/shippy)** [![GitHub stars](https://img.shields.io/github/stars/verbb/shippy?style=social&color=white)](https://github.com/verbb/shippy/stargazers)  
+  Framework-agnostic multi-carrier shipping library for PHP. Unified API for rates, tracking, and labels across many carriers (FedEx, UPS, DHL, Australia Post, Canada Post, etc.) without SaaS fees.
+- **[Sentry WMS](https://github.com/hightower-systems/sentry-wms)** [![GitHub stars](https://img.shields.io/github/stars/hightower-systems/sentry-wms?style=social&color=white)](https://github.com/hightower-systems/sentry-wms/stargazers)  
+  Open-source warehouse management system built for e-commerce with barcode scanning, receiving, put-away, picking, packing, shipping, cycle counting, and ERP connectors.
+- **[Cargomint](https://github.com/Scriptwall/cargomint)** [![GitHub stars](https://img.shields.io/github/stars/Scriptwall/cargomint?style=social&color=white)](https://github.com/Scriptwall/cargomint/stargazers)  
+  Open-source multi-tenant logistics operating system for shipment processing, service centers, fleet operations, manifests, customer tracking, and delivery workflows.
 - **[KubeRiva](https://www.kuberiva.com/)** (GitHub available)  
   Open-source AI-native Order Management System with multi-channel ingestion, AI-powered sourcing/fulfillment, real-time inventory, and natural language assistant. Apache 2.0, Docker-ready.
-- **[Sentry WMS](https://github.com/hightower-systems/sentry-wms)**  
-  Open-source warehouse management system built for e-commerce with barcode scanning, receiving, put-away, picking, packing, shipping, cycle counting, and ERP connectors.
-- **[Shippy](https://github.com/verbb/shippy)**  
-  Framework-agnostic multi-carrier shipping library for PHP. Unified API for rates, tracking, and labels across many carriers (FedEx, UPS, DHL, Australia Post, Canada Post, etc.) without SaaS fees.
-- **[LibreTrack](https://github.com/proninyaroslav/libretrack)**  
-  Private, cross-platform open-source package tracking app. Tracks postal items locally using carrier accounts with full privacy (no third-party services).
-- **[Courier (self-hosted tracker)](https://github.com/tborychowski/courier)**  
-  Lightweight self-hosted parcel tracker supporting nearly any courier worldwide (Docker-ready).
-- **[Cargomint](https://github.com/Scriptwall/cargomint)**  
-  Open-source multi-tenant logistics operating system for shipment processing, service centers, fleet operations, manifests, customer tracking, and delivery workflows.
-- **[LoadPartner TMS](https://github.com/loadpartner/tms)**  
-  Open-source Transportation Management System for freight brokers (Laravel + React stack).
 
 ### Additional Strong Open-Source Options
 - **Odoo Community Edition** — Full open-source ERP with inventory, shipping, procurement, and warehouse modules.
