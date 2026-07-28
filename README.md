@@ -105,3 +105,14 @@ Star the repo if you find it useful!
 ---
 **Made for ecommerce sellers, 3PLs, warehouse operators, developers, and logistics technologists.**  
 Let's make shipping and fulfillment more open, programmable, and efficient.
+
+## Star History
+<div align="center">
+<a href="https://www.star-history.com/?repos=ishandutta2007%2FAwesome-Shipping-Fulfillment&type=date&legend=bottom-right">
+<picture>
+<source media="(prefers-color-scheme: dark)" srcset="https://api.star-history.com/chart?repos=ishandutta2007/Awesome-Shipping-Fulfillment&type=date&theme=dark&legend=bottom-right" />
+<source media="(prefers-color-scheme: light)" srcset="https://api.star-history.com/chart?repos=ishandutta2007/Awesome-Shipping-Fulfillment&type=date&legend=bottom-right" />
+<img alt="Star History Chart" src="https://api.star-history.com/chart?repos=ishandutta2007/Awesome-Shipping-Fulfillment&type=date&legend=bottom-right" />
+</picture>
+</a>
+</div>
