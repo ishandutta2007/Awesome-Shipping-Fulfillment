@@ -19,7 +19,7 @@ Welcome to the ultimate curated resource for **Shipping & Fulfillment solutions*
 
 Contributions welcome! Open a PR to add/update entries. Keep descriptions factual and link to official sites.
 
-## Table of Contents 📑
+## Table of Contents 📑 📑
 - [SaaS/Hosted Platforms](#saas-hosted-platforms)
 - [Open-Source GitHub Projects](#open-source-github-projects)
 - [How to Contribute](#how-to-contribute)
@@ -80,7 +80,7 @@ Contributions welcome! Open a PR to add/update entries. Keep descriptions factua
 
 **Frameworks for building custom systems**: Combine **Karrio** (shipping API) + **Openship** or **OpenOMS** (order routing/OMS) + **Fleetbase** or **Sentry WMS** (logistics/warehouse) + **InfluxDB/Grafana** or modern dashboards. Pair with self-hosted tools like LibreTrack for end-to-end open fulfillment stacks.
 
-## How to Contribute 🤝
+## How to Contribute 🤝 🤝
 1. Fork the repo.
 2. Add/edit entries in `README.md` (follow existing format).
 3. Include: name, link, 1–2 sentence description, and whether it's SaaS or open-source.
@@ -88,7 +88,7 @@ Contributions welcome! Open a PR to add/update entries. Keep descriptions factua
 
 Star the repo if you find it useful!
 
-## Disclaimer ⚠️
+## Disclaimer ⚠️ ⚠️
 - This is a **community-curated** list — not exhaustive and not an endorsement.
 - Shipping and fulfillment tools must comply with carrier terms, customs regulations, and data privacy laws (GDPR, CCPA, etc.).
 - Self-hosted open-source solutions require proper security, reliability, carrier account management, and operational expertise.
