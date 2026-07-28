@@ -29,21 +29,22 @@ Contributions welcome! Open a PR to add/update entries. Keep descriptions factua
 
 ### Core Platforms (Shipping & Fulfillment) ⚙️
 
-| Product | Description | Pricing | Free Tier Limit |
-|---------|-------------|---------|-----------------|
-| **[ShipStation](https://www.shipstation.com/)** | Leading multi-channel shipping platform with automation rules, batch label printing, rate shopping across 100+ carriers, and deep ecommerce integrations. | Starts at $9.99/mo | None |
-| **[Easyship](https://www.easyship.com/)** | Global multi-carrier shipping platform strong on cross-border, duties/taxes (DDP/DDU) at checkout, and 550+ couriers. | Starts at $29/mo | 50 shipments/mo |
-| **[ShipBob](https://www.shipbob.com/)** | End-to-end 3PL fulfillment network with warehousing, inventory management, order routing, and shipping services. | Custom Pricing | None |
-| **[Shippo](https://goshippo.com/)** | Multi-carrier shipping API and dashboard with rate shopping, label generation, tracking, and pay-as-you-go pricing. | Pay-as-you-go / Pro from $19/mo | Free default carrier labels |
-| **[AfterShip](https://www.aftership.com/)** | Post-purchase tracking, branded tracking pages, returns management, and notifications across 1,000+ carriers. | Starts at $11/mo | 50 shipments/mo |
-| **[EasyPost](https://www.easypost.com/)** | Developer-first multi-carrier shipping API for rates, labels, tracking, and address validation across 100+ carriers. | $0.01/label after free tier | 120,000 shipments/year |
-| **[Pirate Ship](https://www.pirateship.com/)** | Free (no monthly fee) shipping platform focused on discounted USPS and UPS rates for small businesses. | $0/mo (pay for postage only) | Unlimited |
-| **[Ordoro](https://www.ordoro.com/)** | Inventory, order, and shipping management platform especially strong for dropshipping and multi-channel sellers. | Pro starts at $59/mo | 1,000 orders/mo |
-| **[Stamps.com](https://www.stamps.com/)** | USPS-focused postage and label printing solution with discounted rates and desktop/web tools. | Starts at $19.99/mo | None |
-| **[Sendcloud](https://www.sendcloud.com/)** | European multi-carrier shipping and returns platform with strong localization, customs handling, and 160+ EU carriers. | Starts at €23/mo | 100 parcels/mo |
-| **[Veeqo](https://www.veeqo.com/)** | Amazon-owned free multichannel order management and shipping software with commercial carrier rates and inventory tools. | $0/mo (Free) | Unlimited |
-| **[ShipHero](https://shiphero.com/)** | High-volume warehouse management system (WMS) for 3PLs and brands with picking, packing, inventory, and shipping automation. | WMS starts at $1,995/mo | None |
-| **[ShippingEasy](https://shippingeasy.com/)** | Ecommerce shipping automation with discounted rates, batch processing, and marketing integrations. | Starts at $19.99/mo | 50 shipments/mo |
+| Product | Description | Pricing | Free Tier Limit | Company Size |
+|---------|-------------|---------|-----------------|--------------|
+| **[Veeqo](https://www.veeqo.com/)** | Amazon-owned free multichannel order management and shipping software with commercial carrier rates and inventory tools. | $0/mo (Free) | Unlimited | $1T+ (Amazon) |
+| **[ShipStation](https://www.shipstation.com/)** | Leading multi-channel shipping platform with automation rules, batch label printing, rate shopping across 100+ carriers, and deep ecommerce integrations. | Starts at $9.99/mo | None | $6.6B (Auctane) |
+| **[Stamps.com](https://www.stamps.com/)** | USPS-focused postage and label printing solution with discounted rates and desktop/web tools. | Starts at $19.99/mo | None | $6.6B |
+| **[ShippingEasy](https://shippingeasy.com/)** | Ecommerce shipping automation with discounted rates, batch processing, and marketing integrations. | Starts at $19.99/mo | 50 shipments/mo | $6.6B (Auctane) |
+| **[ShipBob](https://www.shipbob.com/)** | End-to-end 3PL fulfillment network with warehousing, inventory management, order routing, and shipping services. | Custom Pricing | None | $1B+ |
+| **[Shippo](https://goshippo.com/)** | Multi-carrier shipping API and dashboard with rate shopping, label generation, tracking, and pay-as-you-go pricing. | Pay-as-you-go / Pro from $19/mo | Free default carrier labels | $1B |
+| **[AfterShip](https://www.aftership.com/)** | Post-purchase tracking, branded tracking pages, returns management, and notifications across 1,000+ carriers. | Starts at $11/mo | 50 shipments/mo | $1B |
+| **[Pirate Ship](https://www.pirateship.com/)** | Free (no monthly fee) shipping platform focused on discounted USPS and UPS rates for small businesses. | $0/mo (pay for postage only) | Unlimited | $1B |
+| **[Sendcloud](https://www.sendcloud.com/)** | European multi-carrier shipping and returns platform with strong localization, customs handling, and 160+ EU carriers. | Starts at €23/mo | 100 parcels/mo | $1B |
+| **[EasyPost](https://www.easypost.com/)** | Developer-first multi-carrier shipping API for rates, labels, tracking, and address validation across 100+ carriers. | $0.01/label after free tier | 120,000 shipments/year | $100M+ |
+| **[Easyship](https://www.easyship.com/)** | Global multi-carrier shipping platform strong on cross-border, duties/taxes (DDP/DDU) at checkout, and 550+ couriers. | Starts at $29/mo | 50 shipments/mo | $50M+ |
+| **[ShipHero](https://shiphero.com/)** | High-volume warehouse management system (WMS) for 3PLs and brands with picking, packing, inventory, and shipping automation. | WMS starts at $1,995/mo | None | $50M+ |
+| **[Ordoro](https://www.ordoro.com/)** | Inventory, order, and shipping management platform especially strong for dropshipping and multi-channel sellers. | Pro starts at $59/mo | 1,000 orders/mo | $10M |
+
 
 ## Open-Source GitHub Projects 💻
 
