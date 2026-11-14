@@ -44,9 +44,13 @@ Contributions welcome! Open a PR to add/update entries. Keep descriptions factua
 | **[Easyship](https://www.easyship.com/)** | Global multi-carrier shipping platform strong on cross-border, duties/taxes (DDP/DDU) at checkout, and 550+ couriers. | Starts at $29/mo | 50 shipments/mo | $50M+ |
 | **[ShipHero](https://shiphero.com/)** | High-volume warehouse management system (WMS) for 3PLs and brands with picking, packing, inventory, and shipping automation. | WMS starts at $1,995/mo | None | $50M+ |
 | **[Ordoro](https://www.ordoro.com/)** | Inventory, order, and shipping management platform especially strong for dropshipping and multi-channel sellers. | Pro starts at $59/mo | 1,000 orders/mo | $10M |
+| **[OrderQuill](https://orderquill.com/)** | Browser-based, no-signup tool that converts Shopify, eBay, Whatnot, Etsy, and WooCommerce order CSVs into 4x6 or A4 packing slips and SKU pick lists locally in the browser. | $0/mo (Free tier; Pro optional) | 20 orders/batch | Independent |
 
 
 ## Open-Source GitHub Projects 💻
+
+- **[ecommerce-order-csv-samples](https://github.com/yhx123/ecommerce-order-csv-samples)**  
+  Curated, fictional e-commerce order CSV fixtures (Shopify, eBay, Whatnot), column-mapping references, and 4x6 thermal packing slip print checklists.
 
 - **[Openship](https://github.com/openshiporg/openship)** [![GitHub stars](https://img.shields.io/github/stars/openshiporg/openship?style=social&color=white)](https://github.com/openshiporg/openship/stargazers)  
   Open-source multi-channel order router that connects sales channels (Shopify, WooCommerce, eBay, Amazon, etc.) to fulfillment partners and 3PLs with real-time sync and product matching.
